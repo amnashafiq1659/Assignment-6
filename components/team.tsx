@@ -62,21 +62,21 @@ export default function Team() {
             </div>
             <div className="flex gap-x-4 mt-5">
               <Image
-                src="/images/LinkedIn.png"
+                src={"/images/LinkedIn.png"}
                 alt="LinkedIn"
                 width={18}
                 height={18}
               />
 
               <Image
-                src="/images/Twitter.png"
+                src={"/images/Twitter.png"}
                 alt="Twitter"
                 width={18}
                 height={18}
               />
 
               <Image
-                src="/images/Dribble.png"
+                src={"/images/Dribble.png"}
                 alt="Dribble"
                 width={18}
                 height={18}
