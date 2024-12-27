@@ -120,7 +120,7 @@ export default function Footer() {
                 height={18}
               />
               <Image
-                src={"/images/Linkedin.png"}
+                src={"/images/LinkedIn.png"}
                 alt="linkedin"
                 width={18}
                 height={18}

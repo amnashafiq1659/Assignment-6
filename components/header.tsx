@@ -34,7 +34,7 @@ const Header = () => {
             width={24}
           />
           <Image
-            src={"/images/Linkedin.png"}
+            src={"/images/LinkedIn.png"}
             alt="linkedin icon"
             height={24}
             width={24}
